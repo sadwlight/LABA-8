@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\laba8\\EmailValidatorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA76731-5AAC-170C-558F-4858A6C79769}|EmailValidatorApp\\EmailValidatorApp.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\laba8\\emailvalidatorapp\\emailvalidatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA76731-5AAC-170C-558F-4858A6C79769}|EmailValidatorApp\\EmailValidatorApp.csproj|solutionrelative:emailvalidatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA76731-5AAC-170C-558F-4858A6C79769}|EmailValidatorApp\\EmailValidatorApp.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\laba8\\emailvalidatorapp\\emailvalidatorapp\\emailvalidatorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6CA76731-5AAC-170C-558F-4858A6C79769}|EmailValidatorApp\\EmailValidatorApp.csproj|solutionrelative:emailvalidatorapp\\emailvalidatorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d455e273-1acb-491f-b5c9-760a99044cf9}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailValidatorApp.csproj",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\laba8\\EmailValidatorApp\\EmailValidatorApp\\EmailValidatorApp.csproj",
+              "RelativeDocumentMoniker": "EmailValidatorApp\\EmailValidatorApp.csproj",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\laba8\\EmailValidatorApp\\EmailValidatorApp\\EmailValidatorApp.csproj",
+              "RelativeToolTip": "EmailValidatorApp\\EmailValidatorApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-25T06:05:13.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\laba8\\EmailValidatorApp\\EmailValidatorApp\\Program.cs",
+              "RelativeDocumentMoniker": "EmailValidatorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\laba8\\EmailValidatorApp\\EmailValidatorApp\\Program.cs",
+              "RelativeToolTip": "EmailValidatorApp\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T06:02:51.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

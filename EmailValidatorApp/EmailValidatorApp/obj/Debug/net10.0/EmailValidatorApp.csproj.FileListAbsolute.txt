@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\laba8\EmailValidatorApp\EmailValidatorApp\bin\Debug\net10.0\EmailValidatorApp.exe
+C:\Users\Пользователь\Desktop\laba8\EmailValidatorApp\EmailValidatorApp\bin\Debug\net10.0\EmailValidatorApp.deps.json
+C:\Users\Пользователь\Desktop\laba8\EmailValidatorApp\EmailValidatorApp\bin\Debug\net10.0\EmailValidatorApp.runtimeconfig.json
+C:\Users\Пользователь\Desktop\laba8\EmailValidatorApp\EmailValidatorApp\bin\Debug\net10.0\EmailValidatorApp.dll
+C:\Users\Пользователь\Desktop\laba8\EmailValidatorApp\EmailValidatorApp\bin\Debug\net10.0\EmailValidatorApp.pdb
+C:\Users\Пользователь\Desktop\laba8\EmailValidatorApp\EmailValidatorApp\obj\Debug\net10.0\EmailValidatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\laba8\EmailValidatorApp\EmailValidatorApp\obj\Debug\net10.0\EmailValidatorApp.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\laba8\EmailValidatorApp\EmailValidatorApp\obj\Debug\net10.0\EmailValidatorApp.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\laba8\EmailValidatorApp\EmailValidatorApp\obj\Debug\net10.0\EmailValidatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\laba8\EmailValidatorApp\EmailValidatorApp\obj\Debug\net10.0\EmailValidatorApp.sourcelink.json
+C:\Users\Пользователь\Desktop\laba8\EmailValidatorApp\EmailValidatorApp\obj\Debug\net10.0\EmailValidatorApp.dll
+C:\Users\Пользователь\Desktop\laba8\EmailValidatorApp\EmailValidatorApp\obj\Debug\net10.0\refint\EmailValidatorApp.dll
+C:\Users\Пользователь\Desktop\laba8\EmailValidatorApp\EmailValidatorApp\obj\Debug\net10.0\EmailValidatorApp.pdb
+C:\Users\Пользователь\Desktop\laba8\EmailValidatorApp\EmailValidatorApp\obj\Debug\net10.0\EmailValidatorApp.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\laba8\EmailValidatorApp\EmailValidatorApp\obj\Debug\net10.0\ref\EmailValidatorApp.dll

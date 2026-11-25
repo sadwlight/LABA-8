@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\laba8\\EmailValidatorTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EA54D2-A3D5-6CD8-47AE-F546C84B4172}|EmailValidatorTests\\EmailValidatorTests.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\laba8\\emailvalidatortests\\emailvalidatortests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EA54D2-A3D5-6CD8-47AE-F546C84B4172}|EmailValidatorTests\\EmailValidatorTests.csproj|solutionrelative:emailvalidatortests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EA54D2-A3D5-6CD8-47AE-F546C84B4172}|EmailValidatorTests\\EmailValidatorTests.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\laba8\\emailvalidatortests\\emailvalidatortests\\emailvalidatortests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7EA54D2-A3D5-6CD8-47AE-F546C84B4172}|EmailValidatorTests\\EmailValidatorTests.csproj|solutionrelative:emailvalidatortests\\emailvalidatortests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C2E31F-7A77-2120-39D0-6C822C67E06C}|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\laba8\\EmailValidatorApp|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\laba8\\emailvalidatorapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C2E31F-7A77-2120-39D0-6C822C67E06C}|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\laba8\\EmailValidatorApp|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\laba8\\emailvalidatorapp\\emailvalidatorapp.slnx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813D6A76-43ED-9BF2-8DE3-3E15FD6D4812}|..\\EmailValidatorApp\\EmailValidatorApp\\EmailValidatorApp.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\laba8\\emailvalidatorapp\\emailvalidatorapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813D6A76-43ED-9BF2-8DE3-3E15FD6D4812}|..\\EmailValidatorApp\\EmailValidatorApp\\EmailValidatorApp.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\laba8\\emailvalidatorapp\\emailvalidatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813D6A76-43ED-9BF2-8DE3-3E15FD6D4812}|..\\EmailValidatorApp\\EmailValidatorApp\\EmailValidatorApp.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\laba8\\emailvalidatorapp\\emailvalidatorapp\\emailvalidatorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailValidatorTests",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\laba8\\EmailValidatorTests\\EmailValidatorTests\\EmailValidatorTests.csproj",
+              "RelativeDocumentMoniker": "EmailValidatorTests\\EmailValidatorTests.csproj",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\laba8\\EmailValidatorTests\\EmailValidatorTests\\EmailValidatorTests.csproj",
+              "RelativeToolTip": "EmailValidatorTests\\EmailValidatorTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-25T06:18:24.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\laba8\\EmailValidatorApp\\Web.config",
+              "RelativeDocumentMoniker": "..\\EmailValidatorApp\\Web.config",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\laba8\\EmailValidatorApp\\Web.config",
+              "RelativeToolTip": "..\\EmailValidatorApp\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-11-25T06:18:23.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailValidatorApp.slnx",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\laba8\\EmailValidatorApp\\EmailValidatorApp.slnx",
+              "RelativeDocumentMoniker": "..\\EmailValidatorApp\\EmailValidatorApp.slnx",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\laba8\\EmailValidatorApp\\EmailValidatorApp.slnx",
+              "RelativeToolTip": "..\\EmailValidatorApp\\EmailValidatorApp.slnx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002855|",
+              "WhenOpened": "2026-11-25T06:18:22.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\laba8\\EmailValidatorApp\\EmailValidatorApp\\Web.config",
+              "RelativeDocumentMoniker": "..\\EmailValidatorApp\\EmailValidatorApp\\Web.config",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\laba8\\EmailValidatorApp\\EmailValidatorApp\\Web.config",
+              "RelativeToolTip": "..\\EmailValidatorApp\\EmailValidatorApp\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-11-25T06:18:20.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\laba8\\EmailValidatorApp\\EmailValidatorApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EmailValidatorApp\\EmailValidatorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\laba8\\EmailValidatorApp\\EmailValidatorApp\\Program.cs",
+              "RelativeToolTip": "..\\EmailValidatorApp\\EmailValidatorApp\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T06:18:07.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailValidatorApp",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\laba8\\EmailValidatorApp\\EmailValidatorApp\\EmailValidatorApp.csproj",
+              "RelativeDocumentMoniker": "..\\EmailValidatorApp\\EmailValidatorApp\\EmailValidatorApp.csproj",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\laba8\\EmailValidatorApp\\EmailValidatorApp\\EmailValidatorApp.csproj",
+              "RelativeToolTip": "..\\EmailValidatorApp\\EmailValidatorApp\\EmailValidatorApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-25T06:18:06.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\laba8\\EmailValidatorTests\\EmailValidatorTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "EmailValidatorTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\laba8\\EmailValidatorTests\\EmailValidatorTests\\UnitTest1.cs",
+              "RelativeToolTip": "EmailValidatorTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T06:07:26.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
